@@ -8,7 +8,7 @@ This small script was inspired by Gerard Unger's reflections on the nature of re
 
 To change the text, style and flipping parameters, you need to edit the editor.txt file.
 
-The script requires Python 3.7 or higher version to run, as well as Drawbot as a library.
+The script requires Python 3.7 or higher version to run, as well as [Drawbot](https://github.com/typemytype/drawbot) as a library.
 
 # The book
 
