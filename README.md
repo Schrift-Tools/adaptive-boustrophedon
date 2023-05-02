@@ -12,6 +12,6 @@ The script requires Python 3.7 or higher version to run, as well as [Drawbot](ht
 
 # The book
 
-"Много букв" contains all the interviews conducted by the Shrift magazine and was printed and made available for purchase at the [store](https://bit.ly/mnogobukv).
+"Много букв" contains all the interviews conducted by the [Type Journal](https://typejournal.ru/en/) and was printed and made available for purchase at the [store](https://bit.ly/mnogobukv).
 
 ![Cover photo](images/mnogo-bukv-01-preview.jpg)
